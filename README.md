@@ -18,4 +18,10 @@ prime.
 Q10 Write a program to Print prime numbers in a 
 range.     
 Q11 Write a program to Find GCD of two numbers.    
-Q12 Write a program to Find LCM of two numbers.    
+Q12 Write a program to Find LCM of two numbers.      
+Day4    
+Q13 Write a program to Generate Fibonacci series.    
+Q14 Write a program to Find nth Fibonacci term.   
+Q15 Write a program to Check Armstrong number.   
+Q16 Write a program to Print Armstrong numbers     
+in a range.    
