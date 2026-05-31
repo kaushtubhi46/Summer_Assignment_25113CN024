@@ -24,4 +24,9 @@ Q13 Write a program to Generate Fibonacci series.
 Q14 Write a program to Find nth Fibonacci term.   
 Q15 Write a program to Check Armstrong number.   
 Q16 Write a program to Print Armstrong numbers     
-in a range.    
+in a range.     
+DAY5      
+Q17 Write a program to Check perfect number.     
+Q18 Write a program to Check strong number.     
+Q19 Write a program to Print factors of a number.    
+Q20 Write a program to Find largest prime factor.     
