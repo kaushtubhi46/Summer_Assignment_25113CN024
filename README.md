@@ -30,3 +30,8 @@ Q17 Write a program to Check perfect number.
 Q18 Write a program to Check strong number.     
 Q19 Write a program to Print factors of a number.    
 Q20 Write a program to Find largest prime factor.     
+DAY6        
+Q21 Write a program to Convert decimal to binary.     
+Q22 Write a program to Convert binary to decimal.      
+Q23 Write a program to Count set bits in a number.     
+Q24 Write a program to Find x^n without pow().     
