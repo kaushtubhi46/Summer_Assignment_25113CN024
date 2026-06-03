@@ -35,3 +35,8 @@ Q21 Write a program to Convert decimal to binary.
 Q22 Write a program to Convert binary to decimal.      
 Q23 Write a program to Count set bits in a number.     
 Q24 Write a program to Find x^n without pow().     
+DAY7         
+Q25 Write a program to Recursive factorial.      
+Q26 Write a program to Recursive Fibonacci.    
+Q27 Write a program to Recursive sum of digits.   
+Q28 Write a program to Recursive reverse number.   
