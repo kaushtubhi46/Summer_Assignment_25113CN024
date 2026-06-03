@@ -40,3 +40,24 @@ Q25 Write a program to Recursive factorial.
 Q26 Write a program to Recursive Fibonacci.    
 Q27 Write a program to Recursive sum of digits.   
 Q28 Write a program to Recursive reverse number.   
+DAY8   
+Q29 Write a program to Print half pyramid pattern.    
+Q30 Write a program to Print number triangle.     
+1    
+12     
+123     
+1234    
+12345    
+Q31 Write a program to Print character triangle.    
+A    
+AB    
+ABC     
+ABCD       
+ABCDE      
+Q32 Write a program to Print repeated-number      
+pattern.      
+1    
+22    
+333     
+4444     
+55555     
