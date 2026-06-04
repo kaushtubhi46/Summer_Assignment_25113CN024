@@ -76,4 +76,16 @@ Q36 Write a program to Print hollow square
 pattern.    
 DAY10     
 Q37 Write a program to Print star pyramid.    
-Q38 Write a program to Print reverse pyramid.      
+Q38 Write a program to Print reverse pyramid.        
+Q39 Write a program to Print number pyramid.       
+      1    
+     121    
+    12321   
+   1234321     
+  123454321        
+Q40 Write a program to Print character pyramid.      
+      A    
+     ABA    
+    ABCBA    
+   ABCDCBA     
+  ABCDEDCBA     
