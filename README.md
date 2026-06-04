@@ -60,4 +60,25 @@ pattern.
 22    
 333     
 4444     
-55555     
+55555       
+DAY9      
+Q33 Write a program to Print reverse half star pattern.           
+Q34 Write a program to Print reverse number   
+triangle.   
+12345   
+1234   
+123   
+12   
+1   
+Q35 Write a program to Print repeated character   
+pattern.   
+A   
+BB   
+CCC   
+DDDD   
+EEEEE      
+Q36 Write a program to Print hollow square    
+pattern.       
+DAY10       
+ Q37 Write a program to Print star pyramid.   
+ Q38 Write a program to Print reverse pyramid.    
