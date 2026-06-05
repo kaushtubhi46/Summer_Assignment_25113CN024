@@ -89,3 +89,12 @@ Q40 Write a program to Print character pyramid.
     ABCBA    
    ABCDCBA     
   ABCDEDCBA     
+DAY11   
+Q41 Write a program to Write function to find sum     
+of two numbers.   
+Q42 Write a program to Write function to find     
+maximum.     
+Q43 Write a program to Write function to check    
+prime.     
+Q44 Write a program to Write function to find      
+factorial.      
