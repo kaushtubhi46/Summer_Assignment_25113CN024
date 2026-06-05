@@ -97,4 +97,13 @@ maximum.
 Q43 Write a program to Write function to check    
 prime.     
 Q44 Write a program to Write function to find      
-factorial.      
+factorial.    
+DAY12      
+Q45 Write a program to Write function for      
+palindrome.     
+Q46 Write a program to Write function for     
+Armstrong.     
+Q47 Write a program to Write function for     
+Fibonacci.      
+Q48 Write a program to Write function for perfect      
+number.      
