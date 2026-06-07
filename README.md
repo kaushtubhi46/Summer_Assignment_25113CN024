@@ -106,4 +106,17 @@ Armstrong.
 Q47 Write a program to Write function for     
 Fibonacci.      
 Q48 Write a program to Write function for perfect      
-number.      
+number.            
+DAY13         
+Q49 Write a program to Input and display array.        
+Q50 Write a program to Find sum and average of         
+array.         
+Q51 Write a program to Find largest and smallest      
+element.        
+Q52 Write a program to Count even and odd       
+elements.     
+DAY14          
+Q53 Write a program to Linear search.          
+Q54 Write a program to Frequency of an element.     
+Q55 Write a program to Second largest element.    
+Q56 Write a program to Find duplicates in array.        
