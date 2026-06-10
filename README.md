@@ -133,3 +133,8 @@ element.
 Q63 Write a program to Find pair with given sum.      
 Q64 Write a program to Remove duplicates from       
 array.         
+DAY17    
+Q65 Write a program to Merge arrays.    
+Q66 Write a program to Union of arrays.    
+Q67 Write a program to Intersection of arrays.   
+Q68 Write a program to Find common elements.     
