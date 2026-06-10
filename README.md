@@ -119,4 +119,17 @@ DAY14
 Q53 Write a program to Linear search.          
 Q54 Write a program to Frequency of an element.     
 Q55 Write a program to Second largest element.    
-Q56 Write a program to Find duplicates in array.        
+Q56 Write a program to Find duplicates in array.   
+DAY15        
+Q57 Write a program to Reverse array.       
+Q58 Write a program to Rotate array left.     
+Q59 Write a program to Rotate array right.     
+Q60 Write a program to Move zeroes to end.       
+DAY16         
+Q61 Write a program to Find missing number in      
+array.      
+Q62 Write a program to Find maximum frequency     
+element.       
+Q63 Write a program to Find pair with given sum.      
+Q64 Write a program to Remove duplicates from       
+array.         
