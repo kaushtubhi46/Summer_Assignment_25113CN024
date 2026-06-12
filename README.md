@@ -138,3 +138,9 @@ Q65 Write a program to Merge arrays.
 Q66 Write a program to Union of arrays.    
 Q67 Write a program to Intersection of arrays.   
 Q68 Write a program to Find common elements.     
+DAY18     
+Q69 Write a program to Bubble sort.     
+Q70 Write a program to Selection sort.     
+Q71 Write a program to Binary search.     
+Q72 Write a program to Sort array in descending       
+order.      
