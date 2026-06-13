@@ -144,3 +144,8 @@ Q70 Write a program to Selection sort.
 Q71 Write a program to Binary search.     
 Q72 Write a program to Sort array in descending       
 order.      
+DAY19      
+Q73 Write a program to Add matrices.   
+Q74 Write a program to Subtract matrices.    
+Q75 Write a program to Transpose matrix.   
+Q76 Write a program to Find diagonal sum.      
