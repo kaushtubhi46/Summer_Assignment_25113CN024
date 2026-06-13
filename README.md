@@ -148,4 +148,9 @@ DAY19
 Q73 Write a program to Add matrices.   
 Q74 Write a program to Subtract matrices.    
 Q75 Write a program to Transpose matrix.   
-Q76 Write a program to Find diagonal sum.      
+Q76 Write a program to Find diagonal sum.   
+DAY20       
+Q77 Write a program to Multiply matrices.       
+Q78 Write a program to Check symmetric matrix.        
+Q79 Write a program to Find row-wise sum.       
+Q80 Write a program to Find column-wise sum.         
