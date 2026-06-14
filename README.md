@@ -154,3 +154,11 @@ Q77 Write a program to Multiply matrices.
 Q78 Write a program to Check symmetric matrix.        
 Q79 Write a program to Find row-wise sum.       
 Q80 Write a program to Find column-wise sum.         
+DAY21       
+Q81 Write a program to Find string length       
+without strlen().       
+Q82 Write a program to Reverse a string.      
+Q83 Write a program to Count vowels and       
+consonants.      
+Q84 Write a program to Convert lowercase to        
+uppercase.       
