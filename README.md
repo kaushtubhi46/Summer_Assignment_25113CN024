@@ -162,3 +162,10 @@ Q83 Write a program to Count vowels and
 consonants.      
 Q84 Write a program to Convert lowercase to        
 uppercase.       
+DAY22      
+Q85 Write a program to Check palindrome string.     
+Q86 Write a program to Count words in a     
+sentence.     
+Q87 Write a program to Character frequency.     
+Q88 Write a program to Remove spaces from    
+string.     
