@@ -168,4 +168,12 @@ Q86 Write a program to Count words in a
 sentence.     
 Q87 Write a program to Character frequency.     
 Q88 Write a program to Remove spaces from    
-string.     
+string.       
+DAY23       
+Q89 Write a program to Find first non-repeating      
+character.      
+Q90 Write a program to Find first repeating     
+character.      
+Q91 Write a program to Check anagram strings.      
+Q92 Write a program to Find maximum occurring       
+character.       
