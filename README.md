@@ -177,3 +177,9 @@ character.
 Q91 Write a program to Check anagram strings.      
 Q92 Write a program to Find maximum occurring       
 character.       
+DAY24        
+Q93 Write a program to Check string rotation.     
+Q94 Write a program to Compress a string.    
+Q95 Write a program to Find longest word.    
+Q96 Write a program to Remove duplicate     
+characters.      
