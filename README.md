@@ -183,3 +183,10 @@ Q94 Write a program to Compress a string.
 Q95 Write a program to Find longest word.    
 Q96 Write a program to Remove duplicate     
 characters.      
+DAY25     
+Q97 Write a program to Merge two sorted arrays.    
+Q98 Write a program to Find common characters     
+in strings.    
+Q99 Write a program to Sort names     
+alphabetically.      
+Q100 Write a program to Sort words by length.     
