@@ -190,3 +190,9 @@ in strings.
 Q99 Write a program to Sort names     
 alphabetically.      
 Q100 Write a program to Sort words by length.     
+DAY26      
+Q101 Write a program to Create number guessing     
+game.     
+Q102 Write a program to Create voting eligibility    
+system.      
+Q103 Write a program to Create ATM simulation.     
