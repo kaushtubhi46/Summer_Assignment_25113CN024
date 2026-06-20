@@ -14,6 +14,11 @@ public class NumberGuessingGame {
                 System.out.print("Attempt "+(attempts+1)+"/"+maxAttempts+" - Enter your guess (1-100): ");
                 int guess = sc.nextInt();//take the guess no form user.
                 attempts++;//increase the attempt count after every turn.
+                if(guess < 1||guess > 100){
+                    System.out.println("\nPlease enter a number between 1 and 100.");
+                    attempts--;
+                    continue;
+                }
                 if(guess < secretno){//if guess no is smaller.
                     System.out.println("Too low!");
                 }

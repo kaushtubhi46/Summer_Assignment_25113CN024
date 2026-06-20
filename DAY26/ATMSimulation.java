@@ -38,26 +38,26 @@ public class ATMSimulation {
                     case 2:
                         System.out.print("\t\t\t\t\tEnter amount to deposit : ₹");
                         double deposit = sc.nextDouble();//take deposit.
-                        if(deposit>0){
+                        if(deposit<=0){//vaidation first.
+                            System.out.println("\t\t\t\t\tInvalid Amount!!");
+                        }
+                        else{
                         balance += deposit;
                         System.out.println("\t\t\t\t\tDeposit successful!");
                         System.out.println("\t\t\t\t\tUpdated Balance : "+balance);
-                        }
-                        else{
-                        System.out.println("\t\t\t\t\tInvalid Amount!");
                         }
                         break;
                     case 3:
                         System.out.print("\t\t\t\t\tEnter amount to withdraw : ₹");
                         double withdraw = sc.nextDouble();//take withdrawal amount.
-                        if(balance>=withdraw){//check for suffecient balance.
+                        if(withdraw<=0){//validation first.
+                            System.out.println("\t\t\t\t\tInvalid Amount!!");
+                        }
+                        else if(balance>=withdraw){//check for suffecient balance.
                         balance -= withdraw;//deduct amount.
                         System.out.println("\t\t\t\t\tWithdrawal Succesful!");
                         System.out.println("\t\t\t\t\tRemaining balance : ₹"+balance);
-                        }   
-                        else if(withdraw <=0){
-                            System.out.println("\t\t\t\t\tInvalid Amount!");
-                        }
+                        }  
                         else{
                             System.out.println("\t\t\t\t\tInsufficient Balance!!");
                         } 
