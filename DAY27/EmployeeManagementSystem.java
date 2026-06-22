@@ -131,7 +131,7 @@ public class EmployeeManagementSystem {
                 while(i < count){
                     if(id[i] == deleteID){
                         int j = i;
-                        while(j < count-1){
+                        while (j < count-1){
                             id[j] = id[j+1];
                             empName[j] = empName[j+1];
                             department[j] = department[j+1];
