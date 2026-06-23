@@ -197,3 +197,12 @@ Q102 Write a program to Create voting eligibility
 system.      
 Q103 Write a program to Create ATM simulation.       
 Q104 Write a program to Create quiz application.     
+DAY27     
+Q105 Write a program to Create student record    
+management system.       
+Q106 Write a program to Create employee     
+management system.        
+Q107 Write a program to Create salary management    
+system.       
+Q108 Write a program to Create marksheet      
+generation system.      
