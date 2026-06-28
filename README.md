@@ -215,4 +215,12 @@ Write a program to Create ticket booking
 system.       
 Q112 Write a program to Create contact      
 management system.   
-DAY29    
+DAY29      
+Q113 Write a program to Create menu-driven    
+calculator.     
+Q114 Write a program to Create menu-driven array     
+operations system.     
+Q115 Write a program to Create menu-driven    
+string operations system.     
+Q116 Write a program to Create inventory     
+management system.      
