@@ -224,3 +224,14 @@ Q115 Write a program to Create menu-driven
 string operations system.     
 Q116 Write a program to Create inventory     
 management system.      
+DAY30     
+Q117 Write a program to Create student record      
+system using arrays and strings.     
+Q118 Write a program to Create mini library     
+system.    
+Q119 Write a program to Create mini employee     
+management system.    
+Q120 Write a program to Develop complete mini     
+project using arrays, strings and functions. 
+(PERIOD TRACKER)         
+Thank You     
